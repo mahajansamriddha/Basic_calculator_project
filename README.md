@@ -10,3 +10,4 @@ This is very basic or simple web-based calculator using HTML , CSS and JavaScrip
 
 #Using 
 After giving the input '12*2' and then press the '=' button the output will be show '24'. and the press 'C' for clear the inputs.
+Also give you an favicon image file for helping you to add the favicon.
